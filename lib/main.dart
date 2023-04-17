@@ -66,12 +66,12 @@ void main(){
   // print(j);
   // print(c/d);
 
-  // print(c~/d);  ~ ye symbol use hota hai complete value provide krne ke liye point ke aage ka value nhi deta
-  // print(c%d);  ye reminder deta hai kitna bacha hai
+  // print(c~/d);  ~ it provide complete value ex. 3.50 then after using ~ symbol it provide a complete value 3
+  // print(c%d);   % this symbol is used to show reminder example : 9/7 = 2
 
-  // var x = 9;    reminder deta hai ex. 9/7 krenge to 2 bachega last me
+  // var x = 9;
   // var y = 7;
-  // print(x%y);
+  // print(x%y);    9/7 = 2
 
 
   // # Type Test Operator
